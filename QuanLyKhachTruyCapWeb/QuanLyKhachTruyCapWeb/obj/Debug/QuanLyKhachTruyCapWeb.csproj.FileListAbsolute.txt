@@ -1,0 +1,13 @@
+D:\C#\QuanLyKhachTruyCapWeb\QuanLyKhachTruyCapWeb\bin\Debug\QuanLyKhachTruyCapWeb.exe.config
+D:\C#\QuanLyKhachTruyCapWeb\QuanLyKhachTruyCapWeb\bin\Debug\QuanLyKhachTruyCapWeb.exe
+D:\C#\QuanLyKhachTruyCapWeb\QuanLyKhachTruyCapWeb\bin\Debug\QuanLyKhachTruyCapWeb.pdb
+D:\C#\QuanLyKhachTruyCapWeb\QuanLyKhachTruyCapWeb\obj\Debug\QuanLyKhachTruyCapWeb.csproj.AssemblyReference.cache
+D:\C#\QuanLyKhachTruyCapWeb\QuanLyKhachTruyCapWeb\obj\Debug\QuanLyKhachTruyCapWeb.csproj.SuggestedBindingRedirects.cache
+D:\C#\QuanLyKhachTruyCapWeb\QuanLyKhachTruyCapWeb\obj\Debug\QuanLyKhachTruyCapWeb.Form1.resources
+D:\C#\QuanLyKhachTruyCapWeb\QuanLyKhachTruyCapWeb\obj\Debug\QuanLyKhachTruyCapWeb.Properties.Resources.resources
+D:\C#\QuanLyKhachTruyCapWeb\QuanLyKhachTruyCapWeb\obj\Debug\QuanLyKhachTruyCapWeb.csproj.GenerateResource.cache
+D:\C#\QuanLyKhachTruyCapWeb\QuanLyKhachTruyCapWeb\obj\Debug\QuanLyKhachTruyCapWeb.csproj.CoreCompileInputs.cache
+D:\C#\QuanLyKhachTruyCapWeb\QuanLyKhachTruyCapWeb\obj\Debug\QuanLyKhachTruyCapWeb.exe
+D:\C#\QuanLyKhachTruyCapWeb\QuanLyKhachTruyCapWeb\obj\Debug\QuanLyKhachTruyCapWeb.pdb
+D:\C#\QuanLyKhachTruyCapWeb\QuanLyKhachTruyCapWeb\obj\Debug\QuanLyKhachTruyCapWeb.FrmLuaChon.resources
+D:\C#\QuanLyKhachTruyCapWeb\QuanLyKhachTruyCapWeb\obj\Debug\QuanLyKhachTruyCapWeb.FrmDangKy.resources
